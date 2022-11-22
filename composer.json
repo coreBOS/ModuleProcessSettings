@@ -1,0 +1,24 @@
+{
+	"name": "coreBOS/ModuleProcessSettings",
+	"type": "corebos-module",
+	"properties": {
+		"name": "Generic template module for Process Settings",
+		"description": "This module is a template for the business pattern where we need to associate to a record a set of configuration options for additional work that needs to be done.",
+		"keywords": ["bpm","process","setting"],
+		"homepage": "http://corebos.org/documentation/doku.php?id=en:extensions:extensions:ModuleProcessSettings",
+		"version": "1.0",
+		"time": "2022-11-23",
+		"license": "MIT",
+		"extra": {
+			"distribution": "Free"
+		},
+		"authors": [
+					{
+					"name": "Spike Associates"
+					}
+		],
+		"support": {
+				"email": "info(at)tsolucio(dot)com"
+		}
+	}
+}
