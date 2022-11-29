@@ -1,0 +1,3 @@
+"Reference","Process Setting No","Module","Validation Map","Field Map","Dependency Map","Active","salescommission","Assigned To","Created By","Created Time","Modified Time","Description","Unique Identifier"
+"Invoice Create","PRCSET-0000001","Invoice","","cbMap::::Filter Invoice on Created","cbMap::::FieldDependency for Invoice get salescommission","1","11.11","testmcurrency","admin","2022-11-22 12:03:51","2022-11-23 09:20:36","","6e80385377d8dddbc57fedf41955a99e91a3a503"
+"Invoice Approved","PRCSET-0000002","Invoice","","cbMap::::Filter Invoice on Approved","cbMap::::FieldDependency for Invoice get exciseduty","1","22.22","testmcurrency","admin","2022-11-22 21:23:07","2022-11-23 09:20:49","","4a3819c20cf81af19c8d6099feb5c7eab4316cd7"
